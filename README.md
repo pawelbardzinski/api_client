@@ -1,0 +1,5 @@
+== README
+
+= Steps that are necessary to get the application up and running:
+
+After starting the API Rails Server, download or git-clone the files from this repository. Then naviagte to index.html file locally in your browser. 
