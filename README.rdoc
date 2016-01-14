@@ -3,3 +3,5 @@
 ==== Steps that are necessary to get the application up and running:
 
 After starting the API Rails Server, download or git-clone the files from this repository. Then naviagte to index.html file locally in your browser. 
+
+Login using one of the users from the seeds.rb file from the API Server App. i.e. login: myemail1@test.com / 12345678
